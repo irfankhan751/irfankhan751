@@ -15,7 +15,7 @@
 [![GitHub stats](https://github-readme-stats-akshayashokcode.vercel.app//api?username=irfankhan751&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfankhan751&theme=github-dark&hide_border=true" alt="Irfankhan"/></p>
 
-[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=irfankhan751&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
