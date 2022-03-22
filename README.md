@@ -20,7 +20,7 @@
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
-[<img align="left" alt="IrfanKhan | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][facebook]
+[<img align="left" alt="IrfanKhan | Facebook" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][facebook]
 [<img align="left" alt="IrfanKhan | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="IrfanKhan | Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
 [<img align="left" alt="IrfanKhan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
