@@ -9,7 +9,7 @@
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
 - 2022 *Goals*<img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">: Contribute more to Open Source projects
 - I'm also a fitness enthusiast, love playing cricket & chess <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
-//- Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=SkyApp+Developers) <img align="center" //src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
+- Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Green+Del) <img align="center" gsrc="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
 
 
 [![GitHub stats](https://github-readme-stats-akshayashokcode.vercel.app//api?username=irfankhan751&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
